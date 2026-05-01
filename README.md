@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm KrishnaVamshi 👋
 
-<!--
-**krishnavamshi204/krishnavamshi204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer  
+💻 Skilled in Docker, CI/CD, AWS & Linux  
+⚙️ Passionate about automation, cloud & scalable systems  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Docker | Kubernetes (Basics)
+- GitHub Actions | CI/CD
+- AWS (EC2, S3)
+- Linux | Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Aviation Safety ML System  
+- Stock Price Web App  
+- DevOps CI/CD Pipeline Project (in progress)
+
+## 📫 Connect with me
+- LinkedIn:https://www.linkedin.com/in/vamshi-kathi-3142462b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYUC4HwKgR96rFwaMWumW1A%3D%3D
+- Email: vamshikathi92@gmail.com
+
+⭐ Always learning and building!
