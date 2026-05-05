@@ -1,7 +1,7 @@
 # Hi, I'm KrishnaVamshi 👋
 
 🚀 Aspiring DevOps Engineer  
-💻 Skilled in Docker, CI/CD, AWS & Linux  
+💻 Skilled in Docker, CI/CD, AZURE & Linux  
 ⚙️ Passionate about automation, cloud & scalable systems  
 
 ## 🔧 Tech Stack
